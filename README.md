@@ -1,6 +1,6 @@
 ![UBCoin](logo.png "UBCoin")
 
-Contract repository moved to (UBCoin company repository)[https://github.com/ubcoin/ubcoin]
+Contract repository moved to [UBCoin company repository](https://github.com/ubcoin/ubcoin)
 
 # UBCoin smart contract
 
