@@ -1,5 +1,7 @@
 ![UBCoin](logo.png "UBCoin")
 
+Contract repository moved to (UBCoin company repository)[https://github.com/ubcoin/ubcoin]
+
 # UBCoin smart contract
 
 * _Standard_        : [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
